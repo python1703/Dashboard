@@ -1,0 +1,12 @@
+streamlit
+numpy
+pandas
+seaborn
+matplotlib
+plotly
+scikit-learn
+covid
+yfinance
+plotly
+plotly_express
+tk
