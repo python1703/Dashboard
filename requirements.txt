@@ -6,3 +6,4 @@ covid
 yfinance
 plotly_express
 tk
+streamlit
