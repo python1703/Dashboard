@@ -9,4 +9,4 @@ covid
 yfinance
 plotly
 plotly_express
-tk
+tkinter
