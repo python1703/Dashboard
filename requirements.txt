@@ -6,4 +6,4 @@ plotly
 covid
 yfinance
 plotly_express
-tkinter.tix
+tkinter
